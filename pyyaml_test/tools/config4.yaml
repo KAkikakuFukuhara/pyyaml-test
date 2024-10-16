@@ -1,0 +1,4 @@
+# 数字と文字列の違いはどうなる
+num: 1         # 結果:int
+text_num: "01" # 結果:str
+zero_num: 01   # 結果:int

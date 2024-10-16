@@ -1,0 +1,22 @@
+### python
+__pycache__
+
+### venv
+.venv
+
+### pyenv
+.python-version
+
+### poetry
+poetry.lock
+
+### file
+*.yaml
+
+### exception
+!pyyaml_test/tools/config-dst.yaml
+!pyyaml_test/tools/config.yaml
+!pyyaml_test/tools/config1.yaml
+!pyyaml_test/tools/config2.yaml
+!pyyaml_test/tools/config3.yaml
+!pyyaml_test/tools/config4.yaml

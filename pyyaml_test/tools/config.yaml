@@ -1,0 +1,5 @@
+name: hoge
+mail:
+  - abc@example.com
+  - xyz@example.co.jp
+age: 18
